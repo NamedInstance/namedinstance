@@ -1,0 +1,24 @@
+{
+  "name": "namedinstance",
+  "version": "0.0.1",
+  "description": "named instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamedInstance/namedinstance.git"
+  },
+  "keywords": [
+    "named",
+    "instance",
+    "namedinstance"
+  ],
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NamedInstance/namedinstance/issues"
+  },
+  "homepage": "https://github.com/NamedInstance/namedinstance#readme"
+}
